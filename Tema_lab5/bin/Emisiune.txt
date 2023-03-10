@@ -1,0 +1,13 @@
+12
+18,film,120,joi
+12,show,40,vineri
+14,sport,120,luni
+20,jurnal,60,joi
+19,sport,130,miercuri
+18,jurnal,80,luni
+22,film,100,sambata
+15,show,60,marti
+16,show,50,duminica
+20,film,140,vineri
+19,jurnal,50,duminica
+18,sport,110,miercuri
